@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="katana_tutorials" name="offset_inverse_kinematics" type="offset_inverse_kinematics" output="screen"/>
+
+</launch>

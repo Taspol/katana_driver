@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="katana_tutorials" name="sixR_inverse_kinematics" type="sixR_inverse_kinematics" />
+</launch>
